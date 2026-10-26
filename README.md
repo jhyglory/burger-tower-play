@@ -2,8 +2,8 @@
 
 Play free: https://jhyglory.github.io/burger-tower-play/
 
-This repository contains only the public browser game build. Development source is maintained separately.
+This repository contains the compiled browser game (v0.27.4). The original development project and its history are maintained in a separate private repository.
 
-Music: Countertop Stroll, original arrangement using FreePats Electric Guitar FSBS Clean #1 (CC0-1.0): https://freepats.zenvoid.org/ElectricGuitar/clean-electric-guitar.html
+Music: Countertop Stroll, an original arrangement using FreePats Electric Guitar FSBS Clean #1 (CC0-1.0): https://freepats.zenvoid.org/ElectricGuitar/clean-electric-guitar.html
 
-Physics: Matter.js, MIT license; see THIRD_PARTY_NOTICES.txt.
+Physics: a custom 2D material-point solver. Older hashed runtime assets are retained for cached game pages; see THIRD_PARTY_NOTICES.txt for legacy asset notices.
